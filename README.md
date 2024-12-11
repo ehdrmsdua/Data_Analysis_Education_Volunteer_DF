@@ -1,5 +1,6 @@
 # Title: The 4rd SKU IME AI,Data_Analysis Contest<br/>
 ## Topic: Data Analysis and AI Education Using League of Legends Data<br/>
+## Location: Yeouido High School, Seongnam High School
 ## Period: 2024.05 - 2024.07 <br/>
 
 
