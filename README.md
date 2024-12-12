@@ -7,7 +7,7 @@
 Jeongseok SEOL - Korea Univ_Statistics <br/>
 ### Member : <br/>
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
-'+' 22 people <br/>
+22 people others <br/>
 ### Summary Preview:<br/>
 3 Pages / 240 Pages<br/>
 <br/>
